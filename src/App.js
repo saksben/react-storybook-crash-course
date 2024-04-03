@@ -23,3 +23,6 @@ function App() {
 }
 
 export default App;
+
+// To create a starter React Storybook with TS, run "npx storybook@latest init" and select React and TS
+// To create a starter React Storybook with JS, run "npx create-react-app" and then "npm storybook@latest init"
